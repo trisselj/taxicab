@@ -4,7 +4,7 @@
 # Description: Translates the motion of a taxicab on a 2D plane and measures total distance travelled
 
 # Defining class as taxicab
-class taxicab:
+class Taxicab:
 
     # Initializes taxicab object with x,y coordinates and measurable odometer set to 0 intitially
     def __init__(self, x_coord, y_coord):
